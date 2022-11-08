@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aswin-nair
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning AI & ML
-- 💞️ I’m looking to collaborate on Data Analytics Projects
+- 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me - https://www.linkedin.com/in/aswin-nair-7911011b4/
 
 <!---
